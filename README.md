@@ -60,7 +60,7 @@ Jupyter Notebook proporciona un entorno interactivo que facilita la exploración
 2. ¿Total de comisiones pagadas por mes y por año? 
 3. ¿Top 5 de los vendedores con mayores y menores ventas?
 4. ¿ cual es la marca de auto mas vendida?
-5.¿Cuáles son los modelos de autos más vendidos?
+5. ¿Cuáles son los modelos de autos más vendidos?
 6. Con el fin de realizar campañas de mercadeo y de fidelizacion ¿ cual es el cliente que mas compra y su preferencia en marca de carro?
 
 ###**Incluya una descripción de cómo abordaría el problema de manera diferente en los siguientes escenarios:**
