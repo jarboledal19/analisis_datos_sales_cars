@@ -1,3 +1,9 @@
+En el repositorio se comparten los siguientes archivos:
+- La imahgen del modelo conceptual, para linkearlo en en el README.
+- El archivo prueba_yohana_Arboleda.py con el codigo realizado.
+- El archivo README.md 
+- notebook_prueba_Yohana_Arboleda con el fin de tener una visual completa del proyecto y sus resultados.
+
 ## **Paso 1: Alcance del proyecto y captura de datos**
  **Identificar y recopilar los datos que usaras para tu proyecto**
 - Se obtienen los datos desde la plataforma Kaggle Datasets.
