@@ -40,7 +40,7 @@ aplicación de fondo base de datos de fuentes de verdad  etc.**
  ## Paso 3: Definir el modelo de datos
 **Trazar el modelo de datos conceptual y explicar por qué se eligió ese modelo**
 
-![modelo_conceptual](https://github.com/jarboledal19/Prueba_Yohana_Arboleda/blob/main/Modelo_conceptual_cars_sale.jpg)
+![modelo_conceptual](https://github.com/jarboledal19/analisis_datos_sales_cars/blob/main/Modelo_conceptual_cars_sale.jpg)
 
 Elegí este modelo de entidad-relación porque refleja claramente la estructura de los datos proporcionados y las relaciones entre ellos. La entidad Venta es el elemento central, que vincula vendedores, clientes y automóviles a cada venta específica. De esta manera, podemos rastrear qué vendedor realizó una venta, qué cliente compró el automóvil y qué automóvil se vendió en cada caso.
 
