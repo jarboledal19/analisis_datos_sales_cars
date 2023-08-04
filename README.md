@@ -3,6 +3,9 @@
 - El archivo prueba_yohana_Arboleda.py con el codigo realizado.
 - El archivo README.md 
 - notebook_prueba_Yohana_Arboleda con el fin de tener una visual completa del proyecto y sus resultados.
+- 
+## link del archivo fuente Car_Sales_Data.csv desde Kaggle :
+ https://www.kaggle.com/code/damathajorisaxel/car-sales-eda/input
 
 ## **Paso 1: Alcance del proyecto y captura de datos**
  **Identificar y recopilar los datos que usaras para tu proyecto**
