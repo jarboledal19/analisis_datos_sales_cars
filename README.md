@@ -63,7 +63,7 @@ Jupyter Notebook proporciona un entorno interactivo que facilita la exploración
 5. ¿Cuáles son los modelos de autos más vendidos?
 6. Con el fin de realizar campañas de mercadeo y de fidelizacion ¿ cual es el cliente que mas compra y su preferencia en marca de carro?
 
-###**Incluya una descripción de cómo abordaría el problema de manera diferente en los siguientes escenarios:**
+**Incluya una descripción de cómo abordaría el problema de manera diferente en los siguientes escenarios:**
     
 **Si los datos se incrementaran en 100X**
 
